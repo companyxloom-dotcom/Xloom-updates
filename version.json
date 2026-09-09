@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "apkUrl": https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.2/Xloom.Music.Beta.apk,
+  "apkUrl": "https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.2/Xloom.Music.Beta.apk",
   "notas": "- Corregido: los diálogos de confirmación y avisos ya no se quedaban ocultos detrás del chat/salas\n- Corregido: la letra sincronizada ya no se corta con \"…\" cuando no cabe — ahora se ve completa en 2 líneas\n- Nuevo: panel de administrador y sistema de moderación (baneos, sanciones temporales, expulsar/silenciar en salas)",
   "obligatoria": true
 }
