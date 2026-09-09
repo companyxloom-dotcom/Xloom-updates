@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "apkUrl": "https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.2/Xloom.Music.Beta.apk",
-  "notas": "- Corregido: los diálogos de confirmación y avisos (como el de contenido inapropiado) ya no se quedaban ocultos detrás del chat/salas — ahora aparecen en la pantalla correcta al instante\n- Nuevo: panel de administrador y sistema de moderación (baneos, sanciones temporales, expulsar/silenciar en salas)",
-  "obligatoria": false
+  "version": "1.4",
+  "apkUrl": "https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.4/Xloom.Music.Beta.apk",
+  "notas": "- Nuevo: estadísticas de minutos escuchados\n- Nuevo: actividad de amigos (qué están escuchando ahora)\n- Nuevo: sección de gustos musicales (artistas favoritos) en el perfil\n- Corregido: si la descarga del APK fallaba, la app ahora avisa qué pasó en vez de quedarse sin instalar nada\n- Mejorado: mensaje más claro al activar el permiso de \"instalar apps desconocidas\" durante la actualización",
+  "obligatoria": true
 }
