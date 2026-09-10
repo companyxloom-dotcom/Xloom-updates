@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "apkUrl": "https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.4/Xloom.Music.Beta.apk",
-  "notas": "- Nuevo: estadísticas de minutos escuchados\n- Nuevo: actividad de amigos (qué están escuchando ahora)\n- Nuevo: sección de gustos musicales (artistas favoritos) en el perfil\n- Corregido: si la descarga del APK fallaba, la app ahora avisa qué pasó en vez de quedarse sin instalar nada\n- Mejorado: mensaje más claro al activar el permiso de \"instalar apps desconocidas\" durante la actualización",
+  "version": "1.5",
+  "apkUrl": "https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.5/Xloom.Music.Beta.apk",
+  "notas": "- Nuevo: notas arriba del chat (texto o una canción, duran 24 horas) — se les puede dar like y responder",
   "obligatoria": false
 }
