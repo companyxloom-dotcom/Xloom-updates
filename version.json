@@ -2,5 +2,5 @@
   "version": "1.7",
   "apkUrl": "https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.7/Xloom.Music.Beta.apk",
   "notas": "- Arreglado: las mezclas/transiciones que guardabas entre dos canciones ahora sí quedan guardadas para siempre y suenan automáticamente cada vez que esas dos canciones se reproducen seguidas\n- Arreglado: el aviso de \"memoria llena\" que aparecía de vez en cuando mientras escuchabas música\n- Mejorado: editor de mezcla más simple y directo (se quitó la vista \"Avanzado\")\n- Mejorado: ahora se puede arrastrar la mezcla hasta el final de la canción\n- Mejorado: diseño más prolijo del editor de mezcla",
-  "obligatoria": false
+  "obligatoria": true
 }
