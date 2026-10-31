@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "apkUrl": "https://github.com/companyxloom-dotcom/Xloom-updates/releases/download/v1.9/Xloom.Music.Beta.apk",
-  "notas": "- Corrección del flujo de instalación de actualizaciones\n- Otros arreglos y mejoras",
+  "version": "1.10",
+  "apkUrl": "PEGA_AQUI_EL_LINK",
+  "notas": "- Nuevo aviso de actualización, más claro y bonito\n- Mejor mezcla entre canciones descargadas y streaming\n- Portada animada y letras más fluidas\n- Corrección de errores",
   "obligatoria": true
 }
